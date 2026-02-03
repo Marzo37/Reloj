@@ -111,7 +111,7 @@ If you wish to use, study, or collaborate on this project, you must contact the 
 
 👤 Author
 
-Developed by Daniel
+Developed by Johan
 Frontend Developer & Student
 
 📌 Final Note
